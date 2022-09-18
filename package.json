@@ -1,0 +1,22 @@
+{
+  "name": "project4-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.5",
+    "morgan": "^1.10.0",
+    "normalize-port": "^1.0.0",
+    "yelp-fusion": "^3.0.0"
+  }
+}
